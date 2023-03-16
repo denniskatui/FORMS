@@ -1,0 +1,28 @@
+form{
+    background-color: white;
+    margin : 200px;
+     box-shadow: red;
+    padding-bottom: 200px;
+    padding-left: 20px;
+    padding-right: 444px;
+    padding-top: 12px;
+}
+input[type=submit]{
+    color: black;
+    background-color:darkorange;
+    width: 330px;
+    height: 30px;
+    border-radius: 25px;
+}
+
+body{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form{
+    background-color: gray;
+padding: 90px;
+margin: 40px;
+
+}
